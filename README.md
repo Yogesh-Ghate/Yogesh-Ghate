@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Software Engineer: Passionate about Coding, Eager to Learn, and Ready to Contribute to Innovative Software Development.
+Aspiring Software Engineer Passionate about Coding, Eager to Learn, and Ready to Contribute to Innovative Software Development.
 
 
 ## 🌐 Socials:

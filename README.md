@@ -1,10 +1,10 @@
 # 💫 About Me:
 
-🔭   I’m currently learning ReactJS development. 
-🤔   Exploring new technologies and development strategies. 
-🎓   Studying Web and Android Development. 
-🌱   Enthusiast in Machine Learning and Android Development. 
-☕   Aspiring Software Engineer Passionate about Coding, Eager to Learn, and Ready to Contribute to Innovative Software Development.
+🔭   I’m currently learning ReactJS development.  
+🤔   Exploring new technologies and development strategies.  
+🎓   Studying Web and Android Development.  
+🌱   Enthusiast in Machine Learning and Android Development.  
+☕   Aspiring Software Engineer Passionate about Coding, Eager to Learn, and Ready to Contribute to Innovative Software Development.  
 
 
 ## 🌐 Socials:

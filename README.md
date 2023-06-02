@@ -13,7 +13,7 @@
 # 💻 Tech Stack:
 
 💻   Java  
-🌐   HTML | CSS | SCSS | JavaScript | React.js  
+🌐   HTML | CSS | JavaScript | React.js  
 🛢    MySQL | Firebase  
 🔧   Visual Studio code | Android Studio | GitHub     
 
